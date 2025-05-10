@@ -28,7 +28,7 @@ Es una herramienta que permite definir y ejecutar aplicaciones Docker con múlti
 
 
 ### 4. Conocimientos previos
-Para desarrollar esta práctica, se requiere que el estudiante tenga conocimientos básicos sobre:
+Para desarrollar esta práctica, se debe tener conocimientos básicos sobre:
 
 Docker y su línea de comandos.
 
@@ -41,13 +41,13 @@ Manejo básico de servidores de bases de datos como MySQL o PostgreSQL.
 Administración de servicios web como WordPress y phpMyAdmin.
 
 ### 5. Objetivos a alcanzar
-Verificar la instalación de Docker Compose.
+Construir un archivo docker compose usando el formato YML.
 
-Asegurarse de que Docker esté funcionando correctamente.
+Estructurar 3 servicios: wordpress, mysql, phpmyadmin
 
-Crear un entorno funcional con WordPress, MySQL y phpMyAdmin usando Docker Compose.
+Definir una red.
 
-Configurar redes y volúmenes en Docker para asegurar la persistencia de datos.
+Definir un volumen
 
 ### 6. Equipo necesario
 Computadora personal.
