@@ -2,8 +2,6 @@
 ### 1. Titulo
 Wordpress con postgresql-pgadmin  en docker-compose formato yml
 
-![image](https://github.com/user-attachments/assets/a63ec5fa-30fb-4522-b874-1d1a3162db1a)
-
 ![image](https://github.com/user-attachments/assets/4d5dc3e1-8561-41e4-8169-d62e17598d23)
 
 
