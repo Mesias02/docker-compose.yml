@@ -73,7 +73,11 @@ Guía de la asignatura.
 Parte 1: Preparación del entorno
 Verificar que Docker Compose esté instalado en el sistema.
 
+![image](https://github.com/user-attachments/assets/64fd7462-5e08-4846-86cc-bc18fd1df072)
+
 Validar que Docker se esté ejecutando correctamente.
+
+![image](https://github.com/user-attachments/assets/4fdf878a-478e-49d5-b10a-12d9c7256ab1)
 
 Parte 2: Estructura del proyecto
 Crear un directorio para el proyecto.
