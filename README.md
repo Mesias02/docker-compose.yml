@@ -1,6 +1,11 @@
 # docker-compose.yml
 ### 1. Titulo
-Wordpress con postgresql-pgadmin  en docker-compose
+Wordpress con postgresql-pgadmin  en docker-compose formato yml
+
+![image](https://github.com/user-attachments/assets/a63ec5fa-30fb-4522-b874-1d1a3162db1a)
+
+![image](https://github.com/user-attachments/assets/4d5dc3e1-8561-41e4-8169-d62e17598d23)
+
 
 ### 2. Tiempo de duración
 El tiempo fue de 180 minutos.
@@ -9,11 +14,20 @@ El tiempo fue de 180 minutos.
 Volúmenes Docker
 Los volúmenes en Docker permiten almacenar datos de forma persistente más allá del ciclo de vida del contenedor. En el documento, se hace mención a la asociación de volúmenes en los servicios definidos en docker-compose.yml, lo cual garantiza que los datos de las bases de datos y aplicaciones (como WordPress y MySQL) no se pierdan al detener o eliminar contenedores.
 
+![image](https://github.com/user-attachments/assets/af3eaa24-1c30-467d-8c63-839780a46e1f)
+
+
 PostgreSQL
 Aunque el documento se enfoca principalmente en WordPress y MySQL, el principio de persistencia con volúmenes se aplica también a PostgreSQL, asegurando la retención de datos tras reinicios del servicio. Esta práctica es directamente extrapolable a entornos con PostgreSQL, donde se usarían volúmenes para almacenar datos del contenedor.
 
+![image](https://github.com/user-attachments/assets/c78b927d-b3fb-4320-85e9-fc9448826b39)
+
+
 Docker compose
 Es una herramienta que permite definir y ejecutar aplicaciones Docker con múltiples contenedores. Con Compose, usas un archivo YAML para configurar los servicios de tu aplicación. Luego, con un solo comando, puedes crear e iniciar todos los servicios especificados en tu configuración" (Docker Docs, 2025)
+
+![image](https://github.com/user-attachments/assets/de73263c-b359-4e3f-b53a-36b2014b547b)
+
 
 ### 4. Conocimientos previos
 Para desarrollar esta práctica, se requiere que el estudiante tenga conocimientos básicos sobre:
