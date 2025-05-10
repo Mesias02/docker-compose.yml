@@ -1,4 +1,5 @@
 # docker-compose.yml
+
 ---
 ### 1. Titulo
 Wordpress con postgresql-pgadmin  en docker-compose formato yml
@@ -8,6 +9,7 @@ Wordpress con postgresql-pgadmin  en docker-compose formato yml
 ---
 ### 2. Tiempo de duración
 El tiempo fue de 180 minutos.
+
 ---
 ### 3. Fundamentos
 Volúmenes Docker
@@ -40,6 +42,7 @@ Conceptos generales sobre contenedores, redes y volúmenes.
 Manejo básico de servidores de bases de datos como MySQL o PostgreSQL.
 
 Administración de servicios web como WordPress y phpMyAdmin.
+
 ---
 ### 5. Objetivos a alcanzar
 Construir un archivo docker compose usando el formato YML.
@@ -49,6 +52,7 @@ Estructurar 3 servicios: wordpress, mysql, phpmyadmin
 Definir una red.
 
 Definir un volumen
+
 ---
 ### 6. Equipo necesario
 Computadora personal.
@@ -58,6 +62,7 @@ Docker y Docker Compose instalados y funcionando.
 Editor de texto (Visual Studio Code, Notepad++, etc.).
 
 Navegador web para acceder a WordPress y phpMyAdmin.
+
 ---
 ### 7. Material de apoyo
 Documentación oficial de Docker.
@@ -69,6 +74,7 @@ Recursos en línea sobre instalación y uso de WordPress con Docker.
 Videos tutoriales sobre Docker, WordPress y bases de datos.
 
 Guía de la asignatura.
+
 ---
 ### 8. Procedimiento
 Parte 1: Preparación del entorno
@@ -141,6 +147,7 @@ WordPress desde el navegador para confirmar su funcionamiento.
 phpMyAdmin para gestionar la base de datos y validar la conexión con MySQL.
 
 ![image](https://github.com/user-attachments/assets/877ba516-ea66-4471-981f-36409a9f3338)
+
 ---
 ### 9. Resultados esperados
 Se logró verificar que Docker y Docker Compose estaban correctamente instalados y funcionando.
@@ -150,6 +157,7 @@ Se creó un entorno completo de desarrollo utilizando Docker Compose con WordPre
 La configuración con redes y volúmenes permitió que los servicios se comuniquen entre sí y se mantuvieran los datos persistentes incluso tras reiniciar los contenedores.
 
 Este entorno se puede adaptar fácilmente para trabajar también con PostgreSQL, sustituyendo el servicio de MySQL en el docker-compose.yml.
+
 ---
 ### 10. Bibliografía
 Docker Documentation. (n.d.). Volumes. Recuperado el 17 de abril de 2025 de: https://docs-docker-com.translate.goog/engine/storage/volumes/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
